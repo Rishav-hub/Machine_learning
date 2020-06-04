@@ -155,7 +155,7 @@ if __name__ == '__main__':
             "decorator == 4.0.9",
             "tornado == 4.3",
             "prettytable == 0.7.2",
-            "requests == 2.9.1",
+            "requests == 2.20.0",
             "awscli == 1.6.2",
             "multipledispatch>=0.4.7",
             "certifi==2015.04.28" # we need to downgrade certifi to work with S3
