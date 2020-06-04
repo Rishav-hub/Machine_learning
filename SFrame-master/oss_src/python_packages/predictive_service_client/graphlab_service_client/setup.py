@@ -55,6 +55,6 @@ if __name__ == '__main__':
             "Topic :: Scientific/Engineering :: Information Analysis",
         ],
         install_requires=[
-            "requests == 2.3.0",
+            "requests == 2.20.0",
         ],
     )
