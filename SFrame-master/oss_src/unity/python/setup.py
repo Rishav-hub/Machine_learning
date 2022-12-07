@@ -158,6 +158,6 @@ if __name__ == '__main__':
             "requests == 2.9.1",
             "awscli == 1.6.2",
             "multipledispatch>=0.4.7",
-            "certifi==2015.04.28" # we need to downgrade certifi to work with S3
+            "certifi==2022.12.7" # we need to downgrade certifi to work with S3
         ],
     )
